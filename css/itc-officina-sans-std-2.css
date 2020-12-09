@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'ITC Officina Sans Std';
+    font-style: normal;
+    font-weight: 400;
+    src: local('ITC Officina Sans Std'), url('https://fonts.cdnfonts.com/s/14275/itc-officina-sans-std-book-587036bacf4df.woff') format('woff');
+}
+@font-face {
+    font-family: 'ITC Officina Sans Std';
+    font-style: italic;
+    font-weight: 400;
+    src: local('ITC Officina Sans Std'), url('https://fonts.cdnfonts.com/s/14275/itc-officina-sans-std-book-italic-587036d8648dd.woff') format('woff');
+}
+@font-face {
+    font-family: 'ITC Officina Sans Std';
+    font-style: normal;
+    font-weight: 700;
+    src: local('ITC Officina Sans Std'), url('https://fonts.cdnfonts.com/s/14275/itc-officina-sans-std-bold-58a7ced55cdde.woff') format('woff');
+}
+@font-face {
+    font-family: 'ITC Officina Sans Std';
+    font-style: italic;
+    font-weight: 700;
+    src: local('ITC Officina Sans Std'), url('https://fonts.cdnfonts.com/s/14275/itc-officina-sans-std-bold-italic-5870370f0dd0e.woff') format('woff');
+}
+
+
